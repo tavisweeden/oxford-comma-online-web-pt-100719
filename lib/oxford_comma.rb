@@ -4,9 +4,9 @@
  array.length == 1 
  #array.each do |str| 
  #array << str
- 
- end
  array.join
+ 
+ 
 
  elsif
  
