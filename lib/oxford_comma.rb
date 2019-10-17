@@ -1,29 +1,29 @@
-def oxford_comma(array)
+# def oxford_comma(array)
   
- if 
- array.length == 1 
- array.each do |str| 
- array << str
+# if 
+# array.length == 1 
+# array.each do |str| 
+# array << str
  
- end
- array.join
+# end
+# array.join
 
- #elsif
+# #elsif
  
- array.length == 2
- array.each do |str|
- array << str   
+# # array.length == 2
+# # array.each do |str|
+# # array << str   
  
- end
- array.join(" and ")
+# # end
+# # array.join(" and ")
  
- else
+# # else
  
- array.length == 3
- array.each do |str|
- array << str   
+# # array.length == 3
+# # array.each do |str|
+# # array << str   
  
-  end 
- array.join("and")  
- end
-end
+#   end 
+# array.join("and")  
+# end
+# end
