@@ -13,7 +13,7 @@
  else
  
  array.length == 3
- array
+ array[-1] = "and" + 
  array.join(", ") 
  
  
