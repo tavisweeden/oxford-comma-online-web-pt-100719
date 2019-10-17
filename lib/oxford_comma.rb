@@ -15,7 +15,7 @@
  array << str   
  
  end
- array.join(" and ")
+ array.join()
  
 # else
  
