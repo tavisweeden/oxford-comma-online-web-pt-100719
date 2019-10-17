@@ -15,15 +15,15 @@
  array << str   
  
  end
- array.join()
+ array.join(" and ")
  
-# else
+ else
  
-# array.length == 3
-# array.each do |str|
-# array << str   
+ array.length == 3
+ array.each do |str|
+ array << str   
  
-#   end 
-# array.join("and")  
-# end
-# end
+  end 
+ array.join()  
+ end
+end
