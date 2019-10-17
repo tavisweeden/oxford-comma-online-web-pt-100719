@@ -8,7 +8,7 @@ def oxford_comma(array)
  end
  array.join
 
- elsif
+ #elsif
  
  array.length == 2
  array.each do |str|
