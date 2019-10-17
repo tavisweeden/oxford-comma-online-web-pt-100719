@@ -13,7 +13,8 @@
  else
  
  array.length == 3
- array.join(", ")  
+ array.join(", ") 
+ array(2, " and ")
  
  end
 end
