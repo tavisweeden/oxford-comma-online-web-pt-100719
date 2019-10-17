@@ -8,20 +8,20 @@
 # end
 # array.join
 
-# #elsif
+# elsif
  
-# # array.length == 2
-# # array.each do |str|
-# # array << str   
+#  array.length == 2
+#  array.each do |str|
+# array << str   
  
-# # end
-# # array.join(" and ")
+#  end
+#  array.join(" and ")
  
-# # else
+# else
  
-# # array.length == 3
-# # array.each do |str|
-# # array << str   
+# array.length == 3
+# array.each do |str|
+# array << str   
  
 #   end 
 # array.join("and")  
