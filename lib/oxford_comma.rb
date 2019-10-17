@@ -14,8 +14,8 @@
 #  array.each do |str|
 # array << str   
  
-#  end
-#  array.join(" and ")
+ end
+ array.join(" and ")
  
 # else
  
